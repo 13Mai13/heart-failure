@@ -1,4 +1,4 @@
-y# heart-failure
+# heart-failure
 
 ## What is it
 
