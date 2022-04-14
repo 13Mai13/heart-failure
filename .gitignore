@@ -132,3 +132,4 @@ dmypy.json
 *.png
 *.pickle
 *.pkl
+/results
