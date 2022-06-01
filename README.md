@@ -29,4 +29,4 @@ Run jupyter lab
 jupyter-lab
 ```
 
-Notebook can be found in `./notebook`
+Notebook can be found in `./notebooks`
